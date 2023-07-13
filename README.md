@@ -1,6 +1,6 @@
 ### Hi there 😎
 Welcome to my Github!
-<img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+
 - 🏫 Study in: Beijing University of Posts and Telecommunications
 - 🌱 I am currently learning how to use Vue 3 and Go to build front-end and back-end services
 - 📫 How to reach me: roshibang@bupt.edu.cn
@@ -17,3 +17,5 @@ Welcome to my Github!
 <a href="https://github.com/forksama">
   <img src="https://avatars.githubusercontent.com/u/76622801?v=4" width="50" height="50">
 </a>
+
+<img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
