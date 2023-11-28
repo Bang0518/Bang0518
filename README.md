@@ -2,7 +2,7 @@
 Welcome to my Github!
 
 - 🏫 Study in: Beijing University of Posts and Telecommunications
-- 🌱 I am currently learning how to use Vue 3 and Go to build front-end and back-end services
+- 🌱 Major in: Load forcasting and dispatching 
 - 📫 How to reach me: roshibang@bupt.edu.cn
 
 𝑻𝒉𝒆 𝒄𝒍𝒐𝒔𝒆𝒓 𝒚𝒐𝒖 𝒍𝒐𝒐𝒌, 𝒕𝒉𝒆 𝒍𝒆𝒔𝒔 𝒚𝒐𝒖 𝒔𝒆𝒆.
